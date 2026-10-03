@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Workspace",
+  "description": "A unified operational workspace featuring views for projects, real-time analytics, team directory, and global top-bar filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
